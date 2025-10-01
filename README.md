@@ -145,6 +145,3 @@ What would you like to ask the man?
 etc
 ```
 
-
-## TODO: 
-
