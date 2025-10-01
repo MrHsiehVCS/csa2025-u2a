@@ -4,11 +4,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>csa</groupId>
-  <artifactId>u3pp</artifactId>
+  <artifactId>u2a</artifactId>
   <version>1.0</version>
 
-  <name>u3pp</name>
-  <url>https://github.com/dhoffmanvillage/u3pp.git</url>
+  <name>u2a</name>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
