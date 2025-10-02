@@ -34,7 +34,9 @@ Prices:
 - Water: Free
 
 Combo: burger & fries, or burger & onion rings (10% off)
+
 Megacombo: burger with e ither fries or onion rings, and a soda (15% off)
+
 Healthy: just a salad, or a salad with water. (20% off)
 
 Tax: 10% (applied after discount)
