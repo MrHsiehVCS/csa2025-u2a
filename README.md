@@ -1,6 +1,6 @@
 # Unit 2a Programming Project
 
-For this project, you will be completing parts of the `Main` and `LeapYear` classes in order to fulfill the specs of each part below.
+For this project, you will be completing parts of the `LeapYear`, `FastFoodPriceCalculator`, and `Main` classes in order to fulfill the specs of each part below.
 
 ## PART A - LeapYear.java
 
@@ -35,7 +35,7 @@ Prices:
 
 Combo: burger & fries, or burger & onion rings (10% off)
 
-Megacombo: burger with e ither fries or onion rings, and a soda (15% off)
+Megacombo: burger with either fries or onion rings, and a soda (15% off)
 
 Healthy: just a salad, or a salad with water. (20% off)
 
