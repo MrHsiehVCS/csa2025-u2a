@@ -14,6 +14,8 @@ For **PART A**, you need to complete the method `boolean isLeapYear(int year)` i
 
 Your function should `return true` if the `year` is a leap year and `false` if the year is not a leap year.
 
+To test your code, you can create a temporary `main` method, and print out the results of a few different calls to your function.
+
 ## PART B - FastFoodPriceCalculator.java
 
 In this part, you will write the body of a method that takes in three strings (an entree, side, and drink) then prints out the price of the order. There are discounts for getting certain combos, or for eating healthier. There is also tax. 
