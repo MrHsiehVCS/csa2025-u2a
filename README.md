@@ -20,7 +20,7 @@ To test your code, you can create a temporary `main` method, and print out the r
 
 In this part, you will write the body of a method that takes in three strings (an entree, side, and drink) then prints out the price of the order. There are discounts for getting certain combos, or for eating healthier. There is also tax. 
 
-The method should NOT be case-sensitive. If any input is incorrect, it should return a price of -1.00 
+The method should NOT be case-sensitive. If any input is invalid, it should return a price of -1.00 
 
 Entrees: Burger, Pizza Slice, Salad
 Side: Fries, Onion Rings, NONE
