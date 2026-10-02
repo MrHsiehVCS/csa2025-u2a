@@ -37,7 +37,7 @@ Prices:
 
 Combo: burger & fries, or burger & onion rings (10% off)
 
-Megacombo: burger with either fries or onion rings, and a soda (15% off)
+Megacombo: burger with either fries or onion rings, and a soda (15% off) (this overrides the Combo discount above)
 
 Healthy: just a salad, or a salad with water. (20% off)
 
